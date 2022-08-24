@@ -4,6 +4,7 @@ function idade(anos, mes, dias){
     var AnosQuantidade = anos * 365
     var MesQuantidade = mes * 30
     var total = (AnosQuantidade + MesQuantidade + dias)
-return total
+    
+    return total
 }
 console.log(idade(19,6,15))

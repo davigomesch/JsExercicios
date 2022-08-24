@@ -7,6 +7,8 @@ function fatorial (num){
     return(x)
 }
 
+console.log(fatorial(4))
+
 
 
 
