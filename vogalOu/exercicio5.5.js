@@ -2,10 +2,15 @@
 //chave e valor, dicionario
 
 function Letras(letra){
-    if(letra=a, letra=e, letra=i, letra=o, letra=u)
+
+    if(letra="a", letra="e", letra="i", letra="o", letra="u")
         return "Vogal";
     else
-        return "consoante"
+        return "consoante";
 }
 
-console.log(Letras(t))
+console.log(Letras("e"))
+
+
+
+

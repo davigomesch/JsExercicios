@@ -14,7 +14,7 @@ function calculaPotencia(base, expoente){
     return calculo  
 
 }
-console.log(calculaPotencia(2,4));
+console.log(calculaPotencia(2,0));
 
 
 
